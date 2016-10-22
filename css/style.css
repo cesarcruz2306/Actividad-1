@@ -3,7 +3,7 @@
 */
 
 #contenidos{
-	width: 1000px;
+	width: 500px;
 	height: auto;
 	margin: auto;
 	position: relative;
@@ -52,7 +52,7 @@ header{
 nav{
 width: 1000px;
 height: 50px;
-background: red;
+background: bluelight;
 border-radius: 10px;
 
 }
@@ -66,7 +66,7 @@ li{
 	list-style-type: none;
 	padding: 10px;
 	background: black;
-	margin: 3px;
+	margin: 5px;
 	border-radius: 10px;
 	box-shadow: 0 0 10px white inset; 
 
