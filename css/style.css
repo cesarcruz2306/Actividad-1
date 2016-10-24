@@ -14,9 +14,8 @@
 
 /*ETIQUETAS*/
 body{
-background-image: url(../img/fondo.jpg);
-background-repeat: no-repeat;
-background-size: cover;
+background: #005883;
+
 }
 
 h1{
