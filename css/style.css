@@ -21,17 +21,17 @@ background: #005883;
 h1{
 font-family: 'Shadows Into Light', cursive;
 color: #F47920;
-margin-right: 100px;
+margin-right: 10px;
 font-size: 60px;
-text-align: right; 
+text-align: left; 
 }
 
 h2{
 font-family: 'Indie Flower', cursive;
 color: #F47920;
-margin-right: 10px;
+margin-left: 10px;
 font-size: 20px;
-text-align: right; 
+text-align: left; 
 }
 
 h3{
@@ -43,7 +43,7 @@ text-align: left;
 
 
 header{
-	width: 1300px;
+	width: 1100px;
 	height: 120 px;
 	background: rgba(255, 255, 255, 10,70);
 }
