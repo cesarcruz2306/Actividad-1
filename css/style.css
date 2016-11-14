@@ -23,7 +23,7 @@ font-family: 'Shadows Into Light', cursive;
 color: #F47920;
 margin-right: 60px;
 font-size: 120px;
-text-align: left; 
+text-align: center; 
 }
 
 h2{
@@ -31,14 +31,14 @@ font-family: 'Indie Flower', cursive;
 color: #F47920;
 margin-left: 10px;
 font-size: 120px;
-text-align: left; 
+text-align: center; 
 }
 
 h3{
 font-family: 'fantasy', serif;;
 color: #005883;
 font-size: 20px;
-text-align: left; 
+text-align: center; 
 }
 
 
