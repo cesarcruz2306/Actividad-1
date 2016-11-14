@@ -21,8 +21,8 @@ background: #005883;
 h1{
 font-family: 'Shadows Into Light', cursive;
 color: #F47920;
-margin-right: 10px;
-font-size: 60px;
+margin-right: 60px;
+font-size: 120px;
 text-align: left; 
 }
 
@@ -30,7 +30,7 @@ h2{
 font-family: 'Indie Flower', cursive;
 color: #F47920;
 margin-left: 10px;
-font-size: 20px;
+font-size: 120px;
 text-align: left; 
 }
 
@@ -52,7 +52,7 @@ nav{
 width: 500px;
 height: 50px;
 background: #808080;
-border-radius: 10px;
+border-radius: 60px;
 
 }
 ul{
