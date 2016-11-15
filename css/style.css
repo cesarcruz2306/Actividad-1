@@ -49,14 +49,14 @@ header{
 }
 
 nav{
-width: 20000px;
-height: 200px;
+width: 1100px;
+height: 400px;
 background: #808080;
-border-radius: 100px;
+border-radius: 10px;
 
 }
 ul{
-margin: auto;
+margin: center;
 padding-top: 4px;
 }
 
